@@ -1,3 +1,3 @@
-# React_Test
+# React Table Test
 
-"Testing the react Javascript library"
+Testing the React Javascript library with an example table
