@@ -1,0 +1,6 @@
+{>"layouts/master" /}
+
+{<body}
+    <div id="content">
+    </div>
+{/body}
